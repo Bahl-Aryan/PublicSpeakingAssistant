@@ -1,11 +1,6 @@
 ## Introduction
 This web-based application is a tool for users to record/upload an audio file and be given a rating in each of the following categories: Assertiveness, Enthusiasm, Engagement, and Clarity. The goal is for users to be able to practice their public speaking skills in the comfort of their own home/room, while giving an objective rating of their speaking skills
 
-## Technical Architecture + Developers
-- React-based Frontend: Aryan
-- Django-based Backend: Maciek
-- CNN Models: Ethan and Nisheet
-
 ## Running the Application
 Be sure to have everything installed from requirements.txt
 - Use "npm install" for the frontend portions
